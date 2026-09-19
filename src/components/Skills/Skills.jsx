@@ -30,7 +30,6 @@ function Skills() {
         { name: 'CSS', icon: FaCss3Alt },
         { name: 'React', icon: FaReact },
         { name: 'Angular', icon: FaAngular },
-        { name: 'React Native', icon: FaReact },
         { name: 'Node.js', icon: FaNodeJs },
         { name: 'Spring Boot', icon: SiSpringboot },
         { name: 'MySQL', icon: SiMysql },
